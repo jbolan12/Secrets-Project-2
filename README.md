@@ -23,7 +23,7 @@ This project is a user authentication app built with Node.js, Express, and Postg
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/express-authentication-app.git
+    git clone (https://jbolan12.github.io/Secrets-Project-2/)
     cd express-authentication-app
     ```
 
